@@ -1,0 +1,9 @@
+GroupName,Overallocation,Conflicts,Undersupport,Unwilling,Unpreferred
+group11,0,0,2,0,0
+group11,0,0,0,0,5
+group11,0,0,0,1,1
+group11,0,0,1,1,0
+group11,0,0,1,0,3
+group11,3,10,0,0,3
+group11,0,0,0,2,0
+group11,0,2,1,0,1
